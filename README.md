@@ -9,3 +9,6 @@
 3. PyTorch封装的Transformer用法
 
 4. 使用PyTorch封装的Transformer模型完成中英翻译demo
+
+相关理论参考：
+https://blog.csdn.net/m0_55846238/article/details/145703282?spm=1001.2014.3001.5502
